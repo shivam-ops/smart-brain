@@ -39,7 +39,7 @@ const initalState = {
     joined: ''
   }
 }
-
+//Class
 class App extends Component {
   constructor () {
     super();
